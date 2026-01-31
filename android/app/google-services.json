@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721098560901",
+    "project_id": "encorev2",
+    "storage_bucket": "encorev2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721098560901:android:8971b73e648eb1de75a0ec",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlntA6Kbu1uQ-j6QCS9d1-L7nEJ100Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
