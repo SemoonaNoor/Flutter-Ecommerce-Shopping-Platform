@@ -9,15 +9,7 @@ Features a sleek **Glassmorphism UI**, fluid **micro-animations**, and a robust 
 
 ## 📸 Preview
 
-### Authentication | Home & Discovery | Product Details  
-![alt text](https://via.placeholder.com/200x400?text=Auth+Screen)  
-![alt text](https://via.placeholder.com/200x400?text=Home+Screen)  
-![alt text](https://via.placeholder.com/200x400?text=Detail+Screen)  
-
-### Cart & Checkout | Dark/Light Mode | Admin Panel  
-![alt text](https://via.placeholder.com/200x400?text=Cart+Screen)  
-![alt text](https://via.placeholder.com/200x400?text=Dark+Mode)  
-![alt text](https://via.placeholder.com/200x400?text=Admin+Panel)  
+### inside the documentation
 
 ---
 
