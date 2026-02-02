@@ -93,6 +93,19 @@ University of the Punjab, Gujranwala Campus
 
 ---
 
+## 💼 Sharing This Project
+
+Want to showcase this project on LinkedIn? Check out our comprehensive guide:
+
+📄 **[LinkedIn Posting Guide](LINKEDIN_GUIDE.md)** - Complete guide with:
+- Ready-to-use LinkedIn post templates
+- Best practices for showcasing projects
+- Profile optimization tips
+- Visual content strategies
+- Engagement tactics
+
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License** – see the LICENSE file for details.
